@@ -1,0 +1,16 @@
+PODS:
+  - sharedTuk (1.0)
+
+DEPENDENCIES:
+  - sharedTuk (from `../sharedTuk`)
+
+EXTERNAL SOURCES:
+  sharedTuk:
+    :path: "../sharedTuk"
+
+SPEC CHECKSUMS:
+  sharedTuk: edbe4d56fdef954928a37292f9caea146d564d58
+
+PODFILE CHECKSUM: b7a482d3ab56f00a02f9533cd4458e1841bb7e21
+
+COCOAPODS: 1.12.1
